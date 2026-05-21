@@ -8,12 +8,12 @@ A complete walkthrough for creating a premium personal portfolio website with ci
 
 ### Step 1: Generate Cinematic Portrait Frames
 
-1. Open [Google Whisk](https://labs.google/fx/tools/whisk) in your browser
+1. Open [Google Flow](https://labs.google/fx/tools/flow) in your browser
 2. Upload a portrait photo of yourself or your product
 3. Use the following frame generation prompt:
 
 ```txt
-Cinematic portrait with high-contrast dual-tone lighting, combining deep blues and fiery oranges. The mood feels dramatic, premium, and modern — like a movie poster or high-end branding website hero section.
+Cinematic portrait with high-contrast dual-tone lighting, combining deep blues and fiery oranges. The mood feels dramatic, premium, and modern — like a movie poster or high-end branding website hero section. 
 
 Lighting & Color:
 
@@ -25,9 +25,11 @@ Color palette: Deep navy blue background fading into warm orange near the subjec
 
 Contrast: Very high contrast, with sharp separation between warm + cool tones.
 
+Note: Bright sharp horizintal red light highlighting only the eyes and reflection on the gray wall, rest in deep shadow.
+
 Subject Look:
 
-Close-up portrait facing upward, looking upward, giving an inspiring, heroic vibe.
+Close-up portrait facing directly on screen, looking toward screen, giving an inspiring, heroic vibe.
 
 Low-angle camera perspective for a powerful, aspirational feeling.
 
@@ -62,6 +64,8 @@ Bold, confident, modern.
 Feels like a brand designer or creative professional’s hero banner.
 
 Strong cinematic atmosphere with directional lighting.
+
+No Text on image
 ```
 
 ---
